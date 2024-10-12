@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, i'm Kévin Mayaud 👋
+
+My stack and tools are : 
+
+![Symfony Badge](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+😀 😀
 
 <!--
 **mayaudK/mayaudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
