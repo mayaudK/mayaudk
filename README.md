@@ -43,11 +43,11 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 <!-- ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmayaud&show_icons=true&theme=radical)
--->
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+-->
 
 
 <!--
