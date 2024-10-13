@@ -40,10 +40,10 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 - [Email](mailto:kevin.mayaud@hotmail.fr)
 - [My french resume :fr:](https://kmd-projets.fr/CV-07-10-24.pdf)
 
-## 📈 GitHub Stats
+<:-- ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmayaud&show_icons=true&theme=radical)
-
+-->
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
