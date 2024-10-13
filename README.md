@@ -15,11 +15,11 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 ![Docker Badge](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🔧 Projects & Contributions
+<!--## 🔧 Projects & Contributions
 
 - **[We movies](https://github.com/mayaudK/we_movies)**: A simple fork of [allocine](https://www.allocine.fr/).
 - **[Appointement Maker](https://appointements.kmd-projets.fr/)**: A simple appointement maker tool.
-<!-- - **[Project 3](https://github.com/your-username/project-3)**: A brief description of Project 3. -->
+ - **[Project 3](https://github.com/your-username/project-3)**: A brief description of Project 3. -->
 
 ## 🌱 What I'm Currently Learning
 
