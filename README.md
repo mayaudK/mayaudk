@@ -22,11 +22,9 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 ![Docker Badge](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<!--## 🔧 Projects & Contributions
+## 🔧 Projects & Contributions
 
 - **[We movies](https://github.com/mayaudK/we_movies)**: A simple fork of [allocine](https://www.allocine.fr/).
-- **[Appointement Maker](https://appointements.kmd-projets.fr/)**: A simple appointement maker tool.
- - **[Project 3](https://github.com/your-username/project-3)**: A brief description of Project 3. -->
 
 ## 🌱 What I'm Currently Learning
 
@@ -39,28 +37,3 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 - [LinkedIn](https://www.linkedin.com/in/kevin-mayaud)
 - [Email](mailto:kevin.mayaud@hotmail.fr)
 - [My french resume :fr:](https://kmd-projets.fr/CV-07-10-24.pdf)
-
-<!-- ## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmayaud&show_icons=true&theme=radical)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
--->
-
-
-<!--
-**mayaudK/mayaudk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
