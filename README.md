@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kmayaud&show_icons=true&theme=radical)
 
 ## 📜 License
 
