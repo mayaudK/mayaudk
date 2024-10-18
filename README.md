@@ -40,4 +40,4 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 
 - [LinkedIn](https://www.linkedin.com/in/kevin-mayaud)
 - [Email](mailto:kevin.mayaud@hotmail.fr)
-- [My french resume :fr:](https://kmd-projets.fr/CV-07-10-24.pdf)
+- [My french resume / CV :fr:](https://kmd-projets.fr/CV-07-10-24.pdf)
