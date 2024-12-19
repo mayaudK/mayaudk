@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm passionate about web development, particularly
 
 ![PHP 7 Badge](https://img.shields.io/badge/php-7.4-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PHP 8 Badge](https://img.shields.io/badge/php-8.0-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP 8.2 Badge](https://img.shields.io/badge/php-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![Symfony 4 Badge](https://img.shields.io/badge/symfony-4-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Symfony 5 Badge](https://img.shields.io/badge/symfony-5-000000?style=for-the-badge&logo=symfony&logoColor=white)
